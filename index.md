@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 这只是一个网页，看什么看
 
 You can use the [editor on GitHub](https://github.com/1716654446/QaQ/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
