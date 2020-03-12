@@ -145,7 +145,11 @@ if(guess==q){
 }
 else{
      alert("输入密码错误次数过多，强制退出")
-     self.close();
+     function shut(){  
+        window.opener=null;
+        window.open('','_self');
+        window.close();  
+    } 
 }
 }
 }
